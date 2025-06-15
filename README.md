@@ -1,0 +1,2 @@
+# Fitness-App-Data-Analysis-Case-Study-Using-Power-BI-SQL-and-Python
+This project provides an in-depth analysis of user activity, sleep patterns, and physiological metrics collected from the Strava fitness app. Using SQL and Python, the project explores key behavioral patterns, correlations, and trends to generate actionable insights aimed at improving user engagement, motivation, and overall app effectiveness.
